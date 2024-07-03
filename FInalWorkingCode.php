@@ -194,4 +194,7 @@ logData(array('dealResponse' => $dealResponse), $logFile2);
 // Output the API response (for debugging purposes)
 echo "Customer Response: " . $customerResponse;
 echo "Deal Response: " . $dealResponse;
+
+//checking push
 ?>
+
